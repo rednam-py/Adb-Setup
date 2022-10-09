@@ -11,7 +11,7 @@ Gain Access To Your Smart Device With Android Debug Bridge (adb), it is a comman
 <li>Clean - ADB and Google Drivers from latest SDK</li>
 </ul>
 <h3>For Windows Users |</h3>
-<a href="https://forum.xda-developers.com/attachment.php?attachmentid=4623157&d=1540039037">Download link</a>
+<a href="https://dl.google.com/android/repository/platform-tools-latest-windows.zip">Download link</a>
 
 <li>Install process:</li>
 <ol><li> Run it (Require administrator privileges)</li>
